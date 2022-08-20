@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Ana Luiza!</h1>
+<h1 align="center">Olá 👋,  sou Ana Luiza!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naluhfvc&label=Profile%20views&color=0e75b6&style=flat" alt="naluhfvc" /> </p>
 
 <h3 align="left">Connect with me:</h3>
