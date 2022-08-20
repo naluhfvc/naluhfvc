@@ -4,7 +4,7 @@
 • 👩‍💻 Cursando Sistemas de Informação.<br><br>• 📚 Atualmente aprendendo Java.
 
 
-## 🌐 Rede Social:
+# 🌐 Rede Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizafavacho-dev) 
 
 # 💻 Tecnologias :
