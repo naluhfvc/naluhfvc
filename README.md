@@ -1,4 +1,4 @@
-## Olá, me chamo Ana Luiza! 👋
+### Olá, me chamo Ana Luiza! 👋
 
 # 💫 Sobre Mim:
 • 👩‍💻 Cursando Sistemas de Informação.<br><br>• 📚 Atualmente aprendendo Java.
