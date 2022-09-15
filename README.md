@@ -1,7 +1,7 @@
 # Olá, me chamo Ana Luiza! 👋
 
 ## 💫 Sobre Mim:
-• 👩‍💻 Cursando Sistemas de Informação.<br><br>• 📚 Atualmente aprendendo Java.
+• 👩‍💻 Cursando Sistemas de Informação.<br><br>• 📚 Atualmente estudando mais sobre Front-end.
 
 
 ## 🌐 Rede Social:
