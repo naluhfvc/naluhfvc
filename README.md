@@ -1,7 +1,7 @@
 # Olá, me chamo Ana Luiza! 👋
 
 ## 💫 Sobre Mim:
-• 📚 Cursando Sistemas de Informação.<br><br>
+• 📚 Cursando Sistemas de Informação.<br>
 • 👩‍💻 Foco em Desenvolvimento FullStack. <br><br>
 
 ## 🌐 Rede Social:
