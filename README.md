@@ -2,7 +2,7 @@
 
 ## 💫 Sobre Mim:
 • 📚 Cursando Sistemas de Informação.<br>
-• 👩‍💻 Foco em Desenvolvimento FullStack. <br><br>
+• 👩‍💻 Foco em Desenvolvimento FullStack. <br>
 
 ## 💻 Tecnologias :
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -15,6 +15,7 @@
 
 ## 🌐 Rede Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizafavacho-dev) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=naluhfvc&icon=1&color=1)](https://visitcount.itsvg.in)
 
