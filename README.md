@@ -4,9 +4,6 @@
 • 📚 Cursando Sistemas de Informação.<br>
 • 👩‍💻 Foco em Desenvolvimento FullStack. <br><br>
 
-## 🌐 Rede Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizafavacho-dev) 
-
 ## 💻 Tecnologias :
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -16,6 +13,8 @@
 # 📊 Estatísticas do Github :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naluhfvc&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+## 🌐 Rede Social:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizafavacho-dev) 
 ---
 [![](https://visitcount.itsvg.in/api?id=naluhfvc&icon=1&color=1)](https://visitcount.itsvg.in)
 
