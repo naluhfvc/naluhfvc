@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naluhfvc&langs_count=8&layout=donut&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Rede Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizafavacho-dev) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizafavacho-dev) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naluhfvc&icon=1&color=1)](https://visitcount.itsvg.in)
