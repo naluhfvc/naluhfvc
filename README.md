@@ -1,8 +1,10 @@
 # Olá, me chamo Ana Luiza! 👋
 
 ## 💫 Sobre Mim:
-• 📚 Cursando Sistemas de Informação.<br>
-• 👩‍💻 Foco em Desenvolvimento FullStack. <br>
+• 🎓 Cursando Sistemas de Informação na Unilasalle-RJ.<br>
+• 👩‍💻 Foco em Desenvolvimento FullStack.<br>
+• 📚 Atualmente estudando .NET.<br>
+
 
 ## 💻 Tecnologias :
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
