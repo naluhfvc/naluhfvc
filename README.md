@@ -11,7 +11,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 # 📊 Estatísticas do Github :
-[![Top Langs](https://github-readme-stats-tau-inky-46.vercel.app/api/top-langs/?username=naluhfvc&layout=donut&hide=java)](https://github.com/naluhfvc/github-readme-stats)
+[![Top Langs](https://github-readme-stats-tau-inky-46.vercel.app/api/top-langs/?username=naluhfvc&layout=donut&hide=java&theme=one_dark_pro)](https://github.com/naluhfvc/github-readme-stats)
 
 ## 🌐 Rede Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizafavacho-dev) 
