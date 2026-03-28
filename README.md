@@ -11,8 +11,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 # 📊 Estatísticas do Github :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naluhfvc&langs_count=8&layout=donut&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naluhfvc&count_private=true)
+
 
 ## 🌐 Rede Social:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizafavacho-dev) 
