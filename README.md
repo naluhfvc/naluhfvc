@@ -1,21 +1,17 @@
 # Olá, me chamo Ana Luiza! 👋
 
-## 💫 Sobre Mim:
+## 💫 Sobre Mim
 🚀 Desenvolvedora Full Stack | .NET • React • Node.js<br>
 🎓 Cursando Sistemas de Informação na Unilasalle-RJ<br>
 💡 Apaixonada por tecnologia, desafios e aprendizado contínuo<br>
 📌 Aqui você vai encontrar projetos, estudos e ideias em construção :)
 
-## 💻 Tecnologias :
- ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+## 💻 Tecnologias 
+[![My Skills](https://skillicons.dev/icons?i=net,react,nodejs,mysql,docker,git)](https://skillicons.dev)
 
-# 📊 Estatísticas do Github :
+# 📊 Estatísticas do Github 
 [![Top Langs](https://github-readme-stats-tau-inky-46.vercel.app/api/top-langs/?username=naluhfvc&layout=donut&hide=java&theme=one_dark_pro)](https://github.com/naluhfvc/github-readme-stats)
 
-## 🌐 Rede Social:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luizafavacho-dev) 
-
----
-[![](https://visitcount.itsvg.in/api?id=naluhfvc&icon=1&color=1)](https://visitcount.itsvg.in)
-
+## 🌐 Rede Social
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/luizafavacho-dev)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:analufavacho@gmail.com)
