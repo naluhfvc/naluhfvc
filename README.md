@@ -9,8 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=net,react,nodejs,mysql,docker,git)](https://skillicons.dev)
 
 ## 📊 Estatísticas do Github 
-[![Top Langs](https://github-readme-stats-tau-inky-46.vercel.app/api/top-langs/?username=naluhfvc&layout=donut&hide=css,java,ejs&theme=one_dark_pro)](https://github.com/naluhfvc/github-readme-stats)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=naluhfvc&layout=donut&langs_count=5&theme=nightowl)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=6&theme=nightowl)
 ## 🌐 Contato
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/luizafavacho-dev)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:analufavacho@gmail.com)
